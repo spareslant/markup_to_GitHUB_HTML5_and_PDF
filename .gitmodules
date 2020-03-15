@@ -1,0 +1,3 @@
+[submodule "pandoc-goodies"]
+	path = pandoc-goodies
+	url = https://github.com/spareslant/pandoc-goodies.git
