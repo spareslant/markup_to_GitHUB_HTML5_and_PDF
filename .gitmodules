@@ -1,3 +1,6 @@
 [submodule "pandoc-goodies"]
 	path = pandoc-goodies
 	url = https://github.com/spareslant/pandoc-goodies.git
+[submodule "pandoc-latex-template"]
+	path = pandoc-latex-template
+	url = https://github.com/Wandmalfarbe/pandoc-latex-template.git
